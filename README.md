@@ -1,6 +1,6 @@
 # IQ.COM-cache-url-parser
 
-Parse IQ.COM cache url:
+A simple javascript bookmarlet that can Parse IQ.COM cache url:
 
 example url: https://www.iq.com/play/250lpmgr6ys
 
