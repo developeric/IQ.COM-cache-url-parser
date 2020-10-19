@@ -1,6 +1,6 @@
-# iqiyi-data-cache-parser
+# IQ.COM-cache-url-parser
 
-Parse IQ.COM data cache url:
+Parse IQ.COM cache url:
 
 example url: https://www.iq.com/play/250lpmgr6ys
 
