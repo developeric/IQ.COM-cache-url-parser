@@ -11,8 +11,8 @@ https://cache-video.iq.com/dash?tvid=7807179383780200&bid=600&vid=abe2c4788688b5
 #INSTRUCTIONS:
 
 1. Open this raw url:
-https://raw.githubusercontent.com/zackmark29/iqiyi-data-cache/main/IQIYI%20Data%20Cache%20Parser%20by%20zackmark29.js
+https://github.com/zackmark29/iq.com-cache-url-parser/blob/main/cache-parser-bookmarklet-version
 
 2. Drag and drop the content to your bookmark bar
 
-3. Now play the video from iq.com and then click the bookmarklet script and you will get the cache url
+3. Now play the video and make sure to select first the resolution and then click the bookmarklet script and you will get the cache data url
