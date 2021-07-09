@@ -11,7 +11,7 @@ https://cache-video.iq.com/dash?tvid=7807179383780200&bid=600&vid=abe2c4788688b5
 #INSTRUCTIONS:
 
 1. Open this raw url:
-https://github.com/zackmark29/iq.com-cache-url-parser/blob/main/cache-parser-bookmarklet-version
+https://raw.githubusercontent.com/zackmark29/iq.com-cache-url-parser/main/cache-parser-bookmarklet-version
 
 2. Drag and drop the content to your bookmark bar
 
